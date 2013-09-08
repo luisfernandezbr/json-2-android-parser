@@ -2,7 +2,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -10,10 +9,18 @@ import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.sun.codemodel.JClassAlreadyExistsException;
+import com.sun.codemodel.JCodeModel;
+import com.sun.codemodel.JDefinedClass;
+import com.sun.codemodel.JExpr;
+import com.sun.codemodel.JMethod;
 
 public class JacksonExample {
-	public static void main(String[] args) {
+	public static void main(String[] args){
 
+
+		
+		
 		ObjectMapper mapper = new ObjectMapper();
 
 		try {
@@ -62,6 +69,30 @@ public class JacksonExample {
 		} else {
 			System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>> NOT MAPPED: " + object);
 		}
+	}
+	
+	/**
+	 * http://stackoverflow.com/questions/121324/a-java-api-to-generate-java-source-files
+	 */
+	private void generateClass()  throws JClassAlreadyExistsException, IOException {
+		JCodeModel codeModel = new JCodeModel();
+		JDefinedClass cmClass = codeModel._class("foo.Bar");
+		
+		cmClass.field(0, long.class, "ids");
+		cmClass.field(1, boolean.class, "enable");
+		cmClass.field(2, String.class, "name");
+		cmClass.field(3, JacksonExample.class, "jacksonExample");
+		cmClass.field(4, JacksonExample.class, "jacksonsExample");
+		cmClass.field(2, List.class, "list");
+		
+		
+		
+		JMethod cmMethod = cmClass.method(0, int.class, "foo");
+		cmMethod.body()._return(JExpr.lit(5));
+
+		File file = new File("target/classes");
+		file.mkdirs();
+		codeModel.build(file);
 	}
 	
 	
