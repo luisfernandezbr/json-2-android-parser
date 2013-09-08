@@ -1,0 +1,1301 @@
+{
+    "meta": {
+        "competitionId": "83",
+        "seasonId": "369",
+        "matchdayId": "4244",
+        "iconSrc": "http://images.iliga.de/icons/56/%@.png"
+    },
+    "kickoffs": [
+        {
+            "kickoff": "2013-02-08T22:10:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369775",
+                            "matchIdOpta": "459302",
+                            "period": "FullTime",
+                            "scorehome": 1,
+                            "scoreaway": 1,
+                            "scorehomefirsthalf": 1,
+                            "scoreawayfirsthalf": 0,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1773",
+                                "name": "Estadio 15 de Abril",
+                                "city": "Santa Fe",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1034",
+                                "name": "Mauro Vigliano"
+                            },
+                            "teamhome": {
+                                "id": "6374",
+                                "idInternal": "1822",
+                                "name": "Unión Santa Fe"
+                            },
+                            "teamaway": {
+                                "id": "2577",
+                                "idInternal": "1695",
+                                "name": "Arsenal de Sarandi"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "25",
+                                    "player": {
+                                        "id": "45627",
+                                        "name": "Brahian Alemán",
+                                        "teamId": "6374"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "35",
+                                    "player": {
+                                        "id": "45625",
+                                        "name": "Pablo Míguez",
+                                        "teamId": "6374"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "42",
+                                    "player": {
+                                        "id": "40674",
+                                        "name": "Damián Pérez",
+                                        "teamId": "2577"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "43",
+                                    "player": {
+                                        "id": "40673",
+                                        "name": "Carlos Carbonero",
+                                        "teamId": "2577"
+                                    }
+                                },
+                                {
+                                    "type": "StraightRed",
+                                    "minute": "78",
+                                    "player": {
+                                        "id": "40683",
+                                        "name": "Pablo Lugüercio",
+                                        "teamId": "2577"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "89",
+                                    "player": {
+                                        "id": "40670",
+                                        "name": "Hugo Nervo",
+                                        "teamId": "2577"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "103",
+                                    "player": {
+                                        "id": "45628",
+                                        "name": "Juan Ignacio Cavallaro",
+                                        "teamId": "6374"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "107",
+                                    "player": {
+                                        "id": "45618",
+                                        "name": "Mauro Maidana",
+                                        "teamId": "6374"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "115",
+                                    "player": {
+                                        "id": "40676",
+                                        "name": "Dario Benedetto",
+                                        "teamId": "2577"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 7,
+                                    "period": "FirstHalf",
+                                    "score": "1:0",
+                                    "teamId": "1822",
+                                    "player": {
+                                        "id": "45627",
+                                        "name": "Brahian Alemán",
+                                        "teamId": "6374"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 114,
+                                    "period": "SecondHalf",
+                                    "score": "1:1",
+                                    "teamId": "1695",
+                                    "player": {
+                                        "id": "40676",
+                                        "name": "Dario Benedetto",
+                                        "teamId": "2577"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-09T00:30:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369753",
+                            "matchIdOpta": "459300",
+                            "period": "FullTime",
+                            "scorehome": 0,
+                            "scoreaway": 1,
+                            "scorehomefirsthalf": 0,
+                            "scoreawayfirsthalf": 1,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1774",
+                                "name": "Estadio Diego Armando Maradona",
+                                "city": "Buenos Aires",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "965",
+                                "name": "Diego Abal"
+                            },
+                            "teamhome": {
+                                "id": "846",
+                                "idInternal": "1830",
+                                "name": "Argentinos Juniors"
+                            },
+                            "teamaway": {
+                                "id": "570",
+                                "idInternal": "1674",
+                                "name": "Vélez Sarsfield"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "62",
+                                    "player": {
+                                        "id": "28033",
+                                        "name": "Matías Martínez",
+                                        "teamId": "846"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "66",
+                                    "player": {
+                                        "id": "44805",
+                                        "name": "Matías Laba",
+                                        "teamId": "846"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "76",
+                                    "player": {
+                                        "id": "41472",
+                                        "name": "Jonathan Copete",
+                                        "teamId": "570"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "93",
+                                    "player": {
+                                        "id": "44811",
+                                        "name": "Sebastián Navarro",
+                                        "teamId": "846"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 67,
+                                    "period": "FirstHalf",
+                                    "score": "0:1",
+                                    "teamId": "1674",
+                                    "player": {
+                                        "id": "20838",
+                                        "name": "Lucas Pratto",
+                                        "teamId": "570"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-09T20:00:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369656",
+                            "matchIdOpta": "459304",
+                            "period": "FullTime",
+                            "scorehome": 1,
+                            "scoreaway": 3,
+                            "scorehomefirsthalf": 1,
+                            "scoreawayfirsthalf": 2,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1308",
+                                "name": "Estadio Ciudad de la Plata",
+                                "city": "La Plata",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "974",
+                                "name": "Saúl Laverni"
+                            },
+                            "teamhome": {
+                                "id": "927",
+                                "idInternal": "1820",
+                                "name": "Estudiantes La Plata"
+                            },
+                            "teamaway": {
+                                "id": "2580",
+                                "idInternal": "1699",
+                                "name": "Tigre"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "15",
+                                    "player": {
+                                        "id": "41333",
+                                        "name": "Alejandro Donatti",
+                                        "teamId": "2580"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "48",
+                                    "player": {
+                                        "id": "6777",
+                                        "name": "Marcos Angeleri",
+                                        "teamId": "927"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "55",
+                                    "player": {
+                                        "id": "45101",
+                                        "name": "Gastón Fernández",
+                                        "teamId": "927"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "66",
+                                    "player": {
+                                        "id": "45058",
+                                        "name": "Raúl Iberbia",
+                                        "teamId": "927"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "71",
+                                    "player": {
+                                        "id": "41342",
+                                        "name": "Martín Galmarini",
+                                        "teamId": "2580"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 9,
+                                    "period": "FirstHalf",
+                                    "score": "1:0",
+                                    "teamId": "1820",
+                                    "player": {
+                                        "id": "11409",
+                                        "name": "Marcos Gelabert",
+                                        "teamId": "927"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 28,
+                                    "period": "FirstHalf",
+                                    "score": "1:1",
+                                    "teamId": "1699",
+                                    "player": {
+                                        "id": "41348",
+                                        "name": "Rubén Botta",
+                                        "teamId": "2580"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 47,
+                                    "period": "FirstHalf",
+                                    "score": "1:2",
+                                    "teamId": "1699",
+                                    "player": {
+                                        "id": "41333",
+                                        "name": "Alejandro Donatti",
+                                        "teamId": "2580"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 76,
+                                    "period": "SecondHalf",
+                                    "score": "1:3",
+                                    "teamId": "1699",
+                                    "player": {
+                                        "id": "4895",
+                                        "name": "Gabriel Peñalba",
+                                        "teamId": "2580"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        },
+                        {
+                            "matchId": "369711",
+                            "matchIdOpta": "459303",
+                            "period": "FullTime",
+                            "scorehome": 1,
+                            "scoreaway": 1,
+                            "scorehomefirsthalf": 0,
+                            "scoreawayfirsthalf": 1,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1771",
+                                "name": "Islas Malvinas Stadium",
+                                "city": "Buenos Aires",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1035",
+                                "name": "Silvio Trucco"
+                            },
+                            "teamhome": {
+                                "id": "5685",
+                                "idInternal": "1821",
+                                "name": "All Boys"
+                            },
+                            "teamaway": {
+                                "id": "2834",
+                                "idInternal": "1826",
+                                "name": "Godoy Cruz"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "15",
+                                    "player": {
+                                        "id": "44723",
+                                        "name": "Maximiliano Coronel",
+                                        "teamId": "5685"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "53",
+                                    "player": {
+                                        "id": "44739",
+                                        "name": "Óscar Ahumada",
+                                        "teamId": "5685"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "54",
+                                    "player": {
+                                        "id": "44731",
+                                        "name": "Darío Stefanatto",
+                                        "teamId": "5685"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "84",
+                                    "player": {
+                                        "id": "45144",
+                                        "name": "Sergio Sánchez",
+                                        "teamId": "2834"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "86",
+                                    "player": {
+                                        "id": "44727",
+                                        "name": "Francisco Martinez",
+                                        "teamId": "5685"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "87",
+                                    "player": {
+                                        "id": "45124",
+                                        "name": "Emanuel Insua",
+                                        "teamId": "2834"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 47,
+                                    "period": "FirstHalf",
+                                    "score": "0:1",
+                                    "teamId": "1826",
+                                    "player": {
+                                        "id": "45162",
+                                        "name": "Facundo Castillón",
+                                        "teamId": "2834"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 77,
+                                    "period": "SecondHalf",
+                                    "score": "1:1",
+                                    "teamId": "1821",
+                                    "player": {
+                                        "id": "44739",
+                                        "name": "Óscar Ahumada",
+                                        "teamId": "5685"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-09T22:15:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369779",
+                            "matchIdOpta": "459305",
+                            "period": "FullTime",
+                            "scorehome": 3,
+                            "scoreaway": 2,
+                            "scorehomefirsthalf": 1,
+                            "scoreawayfirsthalf": 2,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "106",
+                                "name": "Alberto J. Armando (La Bombonera)",
+                                "city": "Buenos Aires",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1038",
+                                "name": "Pablo Lunati"
+                            },
+                            "teamhome": {
+                                "id": "540",
+                                "idInternal": "1696",
+                                "name": "Boca Juniors"
+                            },
+                            "teamaway": {
+                                "id": "3501",
+                                "idInternal": "1819",
+                                "name": "Quilmes"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "12",
+                                    "player": {
+                                        "id": "45325",
+                                        "name": "Joel Carli",
+                                        "teamId": "3501"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "28",
+                                    "player": {
+                                        "id": "40723",
+                                        "name": "Matías Caruzzo",
+                                        "teamId": "540"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "51",
+                                    "player": {
+                                        "id": "45342",
+                                        "name": "Gustavo Oberman",
+                                        "teamId": "3501"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "72",
+                                    "player": {
+                                        "id": "40742",
+                                        "name": "Pol Fernández",
+                                        "teamId": "540"
+                                    }
+                                },
+                                {
+                                    "type": "SecondYellow",
+                                    "minute": "79",
+                                    "player": {
+                                        "id": "40723",
+                                        "name": "Matías Caruzzo",
+                                        "teamId": "540"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 6,
+                                    "period": "FirstHalf",
+                                    "score": "0:1",
+                                    "teamId": "1819",
+                                    "player": {
+                                        "id": "45328",
+                                        "name": "Wilfredo Olivera",
+                                        "teamId": "3501"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 9,
+                                    "period": "FirstHalf",
+                                    "score": "0:2",
+                                    "teamId": "1819",
+                                    "player": {
+                                        "id": "41115",
+                                        "name": "Cristian Menéndez",
+                                        "teamId": "3501"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 38,
+                                    "period": "FirstHalf",
+                                    "score": "1:2",
+                                    "teamId": "1696",
+                                    "player": {
+                                        "id": "40736",
+                                        "name": "Wálter Erviti",
+                                        "teamId": "540"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 68,
+                                    "period": "SecondHalf",
+                                    "score": "2:2",
+                                    "teamId": "1696",
+                                    "player": {
+                                        "id": "16015",
+                                        "name": "Guillermo Burdisso",
+                                        "teamId": "540"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 81,
+                                    "period": "SecondHalf",
+                                    "score": "3:2",
+                                    "teamId": "1696",
+                                    "player": {
+                                        "id": "16015",
+                                        "name": "Guillermo Burdisso",
+                                        "teamId": "540"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-10T00:30:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369791",
+                            "matchIdOpta": "459307",
+                            "period": "FullTime",
+                            "scorehome": 0,
+                            "scoreaway": 0,
+                            "scorehomefirsthalf": 0,
+                            "scoreawayfirsthalf": 0,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1772",
+                                "name": "Estadio Hilario Sánchez Rodriguez",
+                                "city": "San Juan",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1036",
+                                "name": "Diego Ceballos"
+                            },
+                            "teamhome": {
+                                "id": "2579",
+                                "idInternal": "1833",
+                                "name": "San Martín de San Juan"
+                            },
+                            "teamaway": {
+                                "id": "2549",
+                                "idInternal": "1831",
+                                "name": "San Lorenzo"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "23",
+                                    "player": {
+                                        "id": "45575",
+                                        "name": "Humberto Osorio Botello",
+                                        "teamId": "2579"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "40",
+                                    "player": {
+                                        "id": "45554",
+                                        "name": "Santiago Hoyos",
+                                        "teamId": "2579"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "46",
+                                    "player": {
+                                        "id": "45503",
+                                        "name": "Walter Kannemann",
+                                        "teamId": "2549"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "56",
+                                    "player": {
+                                        "id": "45558",
+                                        "name": "Reinaldo Alderete",
+                                        "teamId": "2579"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "57",
+                                    "player": {
+                                        "id": "45552",
+                                        "name": "Francisco Alarcón",
+                                        "teamId": "2579"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "83",
+                                    "player": {
+                                        "id": "45559",
+                                        "name": "Damián Ledesma",
+                                        "teamId": "2579"
+                                    }
+                                }
+                            ],
+                            "goals": [],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-10T21:00:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369715",
+                            "matchIdOpta": "459309",
+                            "period": "FullTime",
+                            "scorehome": 1,
+                            "scoreaway": 3,
+                            "scorehomefirsthalf": 1,
+                            "scoreawayfirsthalf": 1,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1767",
+                                "name": "Estadio Libertadores de America",
+                                "city": "Buenos Aires",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1040",
+                                "name": "Juan Pablo Pompei"
+                            },
+                            "teamhome": {
+                                "id": "1243",
+                                "idInternal": "1825",
+                                "name": "Independiente"
+                            },
+                            "teamaway": {
+                                "id": "1095",
+                                "idInternal": "1682",
+                                "name": "Newell's Old Boys"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "15",
+                                    "player": {
+                                        "id": "45191",
+                                        "name": "Leonel Galeano",
+                                        "teamId": "1243"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "30",
+                                    "player": {
+                                        "id": "41181",
+                                        "name": "Raúl Villalba",
+                                        "teamId": "1095"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "51",
+                                    "player": {
+                                        "id": "998",
+                                        "name": "Jonathan Santana",
+                                        "teamId": "1243"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "60",
+                                    "player": {
+                                        "id": "45203",
+                                        "name": "Hernán Fredes",
+                                        "teamId": "1243"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "71",
+                                    "player": {
+                                        "id": "700",
+                                        "name": "Gabriel Heinze",
+                                        "teamId": "1095"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "72",
+                                    "player": {
+                                        "id": "3333",
+                                        "name": "Fabián Vargas",
+                                        "teamId": "1243"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 17,
+                                    "period": "FirstHalf",
+                                    "score": "0:1",
+                                    "teamId": "1682",
+                                    "player": {
+                                        "id": "16024",
+                                        "name": "Nacho Scocco",
+                                        "teamId": "1095"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 21,
+                                    "period": "FirstHalf",
+                                    "score": "1:1",
+                                    "teamId": "1825",
+                                    "player": {
+                                        "id": "45179",
+                                        "name": "Cristian Tula",
+                                        "teamId": "1243"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 77,
+                                    "period": "SecondHalf",
+                                    "score": "1:2",
+                                    "teamId": "1682",
+                                    "player": {
+                                        "id": "16024",
+                                        "name": "Nacho Scocco",
+                                        "teamId": "1095"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 82,
+                                    "period": "SecondHalf",
+                                    "score": "1:3",
+                                    "teamId": "1682",
+                                    "player": {
+                                        "id": "41170",
+                                        "name": "Pablo Pérez",
+                                        "teamId": "1095"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        },
+                        {
+                            "matchId": "369731",
+                            "matchIdOpta": "459301",
+                            "period": "FullTime",
+                            "scorehome": 3,
+                            "scoreaway": 0,
+                            "scorehomefirsthalf": 2,
+                            "scoreawayfirsthalf": 0,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1770",
+                                "name": "Estadio Nuevo Monumental",
+                                "city": "Rafaela",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "314",
+                                "name": "Juan Carlos Loustau"
+                            },
+                            "teamhome": {
+                                "id": "6373",
+                                "idInternal": "1824",
+                                "name": "Atlético Rafaela"
+                            },
+                            "teamaway": {
+                                "id": "986",
+                                "idInternal": "1823",
+                                "name": "Racing Club"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "44",
+                                    "player": {
+                                        "id": "45401",
+                                        "name": "Bruno Zuculini",
+                                        "teamId": "986"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "51",
+                                    "player": {
+                                        "id": "45403",
+                                        "name": "Diego Villar",
+                                        "teamId": "986"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "53",
+                                    "player": {
+                                        "id": "44876",
+                                        "name": "Walter Serrano",
+                                        "teamId": "6373"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "81",
+                                    "player": {
+                                        "id": "44875",
+                                        "name": "Matías Fissore",
+                                        "teamId": "6373"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Penalty",
+                                    "minute": 28,
+                                    "period": "FirstHalf",
+                                    "score": "1:0",
+                                    "teamId": "1824",
+                                    "player": {
+                                        "id": "44860",
+                                        "name": "Lucas Bovaglio",
+                                        "teamId": "6373"
+                                    }
+                                },
+                                {
+                                    "type": "Penalty",
+                                    "minute": 45,
+                                    "period": "FirstHalf",
+                                    "score": "2:0",
+                                    "teamId": "1824",
+                                    "player": {
+                                        "id": "20887",
+                                        "name": "Sebastián Grazzini",
+                                        "teamId": "6373"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 50,
+                                    "period": "SecondHalf",
+                                    "score": "3:0",
+                                    "teamId": "1824",
+                                    "player": {
+                                        "id": "44906",
+                                        "name": "Jonathan López",
+                                        "teamId": "6373"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-10T23:15:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369684",
+                            "matchIdOpta": "459306",
+                            "period": "FullTime",
+                            "scorehome": 1,
+                            "scoreaway": 2,
+                            "scorehomefirsthalf": 0,
+                            "scoreawayfirsthalf": 0,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1309",
+                                "name": "Estadio Mario Alberto Kempes",
+                                "city": "Cordoba",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1001",
+                                "name": "Germán Delfino"
+                            },
+                            "teamhome": {
+                                "id": "1313",
+                                "idInternal": "1828",
+                                "name": "Belgrano"
+                            },
+                            "teamaway": {
+                                "id": "608",
+                                "idInternal": "1829",
+                                "name": "River Plate"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "23",
+                                    "player": {
+                                        "id": "44939",
+                                        "name": "Martín Zapata",
+                                        "teamId": "1313"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "31",
+                                    "player": {
+                                        "id": "44952",
+                                        "name": "Víctor Aquino",
+                                        "teamId": "1313"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "35",
+                                    "player": {
+                                        "id": "751",
+                                        "name": "Cristian Ledesma",
+                                        "teamId": "608"
+                                    }
+                                },
+                                {
+                                    "type": "StraightRed",
+                                    "minute": "47",
+                                    "player": {
+                                        "id": "3938",
+                                        "name": "Leonardo Ponzio",
+                                        "teamId": "608"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "57",
+                                    "player": {
+                                        "id": "44947",
+                                        "name": "Esteban González",
+                                        "teamId": "1313"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "63",
+                                    "player": {
+                                        "id": "44953",
+                                        "name": "Lucas Melano",
+                                        "teamId": "1313"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "82",
+                                    "player": {
+                                        "id": "45471",
+                                        "name": "Carlos Sánchez",
+                                        "teamId": "608"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "92",
+                                    "player": {
+                                        "id": "44933",
+                                        "name": "Gastón Turus",
+                                        "teamId": "1313"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 68,
+                                    "period": "SecondHalf",
+                                    "score": "0:1",
+                                    "teamId": "1829",
+                                    "player": {
+                                        "id": "45479",
+                                        "name": "Leonel Vangioni",
+                                        "teamId": "608"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 88,
+                                    "period": "SecondHalf",
+                                    "score": "0:2",
+                                    "teamId": "1829",
+                                    "player": {
+                                        "id": "45489",
+                                        "name": "Carlos Luna",
+                                        "teamId": "608"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 90,
+                                    "period": "SecondHalf",
+                                    "score": "1:2",
+                                    "teamId": "1828",
+                                    "player": {
+                                        "id": "44937",
+                                        "name": "Guillermo Farré",
+                                        "teamId": "1313"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kickoff": "2013-02-11T23:15:00Z",
+            "groups": [
+                {
+                    "matches": [
+                        {
+                            "matchId": "369696",
+                            "matchIdOpta": "459308",
+                            "period": "FullTime",
+                            "scorehome": 4,
+                            "scoreaway": 0,
+                            "scorehomefirsthalf": 2,
+                            "scoreawayfirsthalf": 0,
+                            "attendance": 0,
+                            "stadium": {
+                                "id": "1776",
+                                "name": "Estadio Ciudad de Lanús",
+                                "city": "Buenos Aires",
+                                "country": "Argentina",
+                                "countryCode": "AR"
+                            },
+                            "referee": {
+                                "id": "1037",
+                                "name": "Sergio Pezzotta"
+                            },
+                            "teamhome": {
+                                "id": "2473",
+                                "idInternal": "1832",
+                                "name": "Lanús"
+                            },
+                            "teamaway": {
+                                "id": "1027",
+                                "idInternal": "1827",
+                                "name": "Colón Santa Fe"
+                            },
+                            "hasLiveTicker": true,
+                            "cards": [
+                                {
+                                    "type": "Yellow",
+                                    "minute": "51",
+                                    "player": {
+                                        "id": "45031",
+                                        "name": "Rubén Ramírez",
+                                        "teamId": "1027"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "70",
+                                    "player": {
+                                        "id": "45250",
+                                        "name": "Maximiliano Velázquez",
+                                        "teamId": "2473"
+                                    }
+                                },
+                                {
+                                    "type": "Yellow",
+                                    "minute": "80",
+                                    "player": {
+                                        "id": "3339",
+                                        "name": "Hernán Bernardello",
+                                        "teamId": "1027"
+                                    }
+                                }
+                            ],
+                            "goals": [
+                                {
+                                    "type": "Goal",
+                                    "minute": 21,
+                                    "period": "FirstHalf",
+                                    "score": "1:0",
+                                    "teamId": "1832",
+                                    "player": {
+                                        "id": "45269",
+                                        "name": "Víctor Ayala",
+                                        "teamId": "2473"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 45,
+                                    "period": "FirstHalf",
+                                    "score": "2:0",
+                                    "teamId": "1832",
+                                    "player": {
+                                        "id": "45273",
+                                        "name": "Silvio Romero",
+                                        "teamId": "2473"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 61,
+                                    "period": "SecondHalf",
+                                    "score": "3:0",
+                                    "teamId": "1832",
+                                    "player": {
+                                        "id": "16020",
+                                        "name": "Ismael Blanco",
+                                        "teamId": "2473"
+                                    }
+                                },
+                                {
+                                    "type": "Goal",
+                                    "minute": 76,
+                                    "period": "SecondHalf",
+                                    "score": "4:0",
+                                    "teamId": "1832",
+                                    "player": {
+                                        "id": "45261",
+                                        "name": "Mario Regueiro",
+                                        "teamId": "2473"
+                                    }
+                                }
+                            ],
+                            "hasPreLiminary": false,
+                            "hasPostLiminary": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

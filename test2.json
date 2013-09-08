@@ -1,7 +1,8 @@
 {
    "menu":{
-      "id":"file",
+      "id":2.0,
       "value":"File",
+      "enable":true,
       "popup":{
          "menuitems":[
             {
@@ -10,7 +11,8 @@
             },
             {
                "value":"Open",
-               "onclick":"OpenDoc()"
+               "onclick":"OpenDoc()",
+               "defaults":true
             },
             {
                "value":"Close",
